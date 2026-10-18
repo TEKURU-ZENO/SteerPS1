@@ -7,7 +7,7 @@ A 45-second mobile quiz that works as a Meta playable ad and as an entry point o
 
 | | |
 |---|---|
-| **Live link** | https://steer-4pm-test.netlify.app *(replace with your deployed URL)* |
+| **Live link** | https://steer-4pm-test.netlify.app  |
 | **Build** | `index.html`, a single self-contained file (~165 KB) |
 | **Walkthrough** | Loom: *(add link)* · Screenshots of every screen: `walkthrough/` |
 | **Sources** | `SOURCES.md`, also shown inside the app via the "Sources" link |
